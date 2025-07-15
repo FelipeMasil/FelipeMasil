@@ -2,7 +2,20 @@
   <h1>Olá, seja bem-vindo(a) ao meu perfil! 👋</h1>
   <p>Sou um desenvolvedor Fullstack em formação, apaixonado por transformar ideias em realidade através do código. 🚀</p>
  </div>
- 
+
+
+ ### 📊 Estatísticas
+
+<p align="center">
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=FelipeMasil&theme=monokai&show_icons=true&hide_border=false&count_private=true" alt="FelipeMasil's Stats"  
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeMasil&theme=monokai&hide_border=false" 
+  alt="FelipeMasil's Streak"
+  />
+</p>
 
  ---
  
@@ -18,29 +31,9 @@
   <p>
   Quando não estou codando, mergulho em leituras sobre <b>filosofia e psicologia</b>, buscando compreender o mundo e o comportamento humano. Sou apaixonado por <b>autodesenvolvimento</b> e por explorar maneiras de cultivar a <b>resiliência</b>, aplicando esses princípios não só na vida pessoal, mas também na forma como encaro desafios no desenvolvimento de software. Acredito que uma mente curiosa e adaptável é essencial para inovar!
  </p>
- 
 
- ---
 
- ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipeMasil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMasil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 ---
  
@@ -78,10 +71,10 @@
  ---
  
 
- ## 📂 Meus Projetos Rocketseat
+ ## 📂 Meus Projetos
  
 
- Dê uma olhada nos projetos que tenho desenvolvido durante a minha jornada na Rocketseat:
+ Dê uma olhada nos projetos que tenho desenvolvido durante a minha jornada:
  
 
  * 🔗 [**Formacao-Fullstack-Rocketseat**](https://github.com/FelipeMasil/Formacao-Fullstack-Rocketseat): Este é o meu repositório da formação em andamento, onde você encontra links para todos projetos da formação.
