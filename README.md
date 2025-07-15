@@ -8,14 +8,17 @@
 
 <p align="center">
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=FelipeMasil&theme=monokai&show_icons=true&hide_border=false&count_private=true" alt="FelipeMasil's Stats"  
+  src="https://github-readme-stats.vercel.app/api?username=FelipeMasil&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="FelipeMasil's Stats" 
+  width="400px"
+  height="195px" 
   />
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeMasil&theme=monokai&hide_border=false" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeMasil&theme=tokyonight&hide_border=false" 
   alt="FelipeMasil's Streak"
+  width="400px"
+  height="195px"
   />
-</p>
 
  ---
  
